@@ -1,0 +1,18 @@
+{
+ "title": "DOT//ZERO — an original dot-matrix display family",
+ "brand": "DOT//ZERO",
+ "body_class": "dz",
+ "headline": "Every letter is a matrix of light.",
+ "lede": "A fixed-pitch 5×7 dot-matrix family. Weight changes the dot itself, from pin-prick Thin to fat, slightly squared Black, so dots never merge and counters never close. The zero carries its signature centre dot.",
+ "fg": "#ffb000", "bg": "#0b0a07",
+ "weight_sample": "NEXT TRAIN 04 MIN",
+ "presets": ["PLATFORM 2  ·  EXPRESS  ·  ON TIME", "SYS READY > 0x00FF 100%", "The quick brown fox jumps over the lazy dog.", "TEMP 21.5°C  HUM 40%  € 3.20", "ÀÉÎÕÜ àéîõü çñß ¡¿"],
+ "features": [["zero", "Slashed zero", false], ["ss01", "Plain zero", false]],
+ "sections": [
+  ["Matrix to dots", "<p>Glyphs are 5×7 matrices in <code>sources/dotmatrix.txt</code>, set on a 110-unit pitch in a 6-dot monospaced cell. Every lit position becomes one closed dot contour, so nothing is ever unioned or merged. Weight sets the dot diameter and its squareness. Italics slant the matrix by 10° and keep the dots round, like a slanted physical display.</p><img src='styles.png' alt='All 18 DotZero styles'>"],
+  ["Legibility", "<p>The dotted zero is the default: O is open, 0 carries the dot. <code>zero</code> swaps in a slashed zero, <code>ss01</code> a plain one.</p><img src='confusables.png' alt='Confusable characters'>"],
+  ["Panels and terminals", "<p>Box-drawing lines are dotted on the same pitch, so rules continue seamlessly across cells. Blocks are solid so they tile, and shades are dot fields.</p><img src='terminal.png' alt='Terminal specimen'>"]
+ ],
+ "install_html": "<pre>mkdir -p ~/.local/share/fonts/DotZero\nunzip DotZero-v1.000.zip -d ~/.local/share/fonts/DotZero\nfc-cache -f ~/.local/share/fonts\nfc-list | grep DotZero</pre><p>Web: <code>&lt;link rel=\"stylesheet\" href=\"css/dotzero.css\"&gt;</code> then <code>font-family: \"DotZero\";</code>. Nix: <code>nix build github:r3dg0d/dotzero-font</code>.</p>",
+ "footer": "DOT//ZERO · OFL-1.1 · lit dot by dot"
+}

@@ -1,0 +1,11 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature zero {
+    sub zero by zero.slash;
+} zero;
+
+feature ss01 {
+    featureNames { name "Plain zero (no centre dot)"; };
+    sub zero by zero.plain;
+} ss01;
