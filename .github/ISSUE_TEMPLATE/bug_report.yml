@@ -1,10 +1,10 @@
 name: Bug report
-description: Rendering, metrics, metadata or install problem in DotZero
+description: Rendering, metrics, metadata or install problem in Zerodot
 labels: [bug]
 body:
   - type: input
     id: version
-    attributes: {label: "DotZero version", placeholder: "1.000"}
+    attributes: {label: "Zerodot version", placeholder: "1.000"}
     validations: {required: true}
   - type: dropdown
     id: format

@@ -1,6 +1,6 @@
-/* DOT//ZERO site: amber LED departure board on a perforated dot-grid panel. */
+/* Zerodot site: amber LED departure board on a perforated dot-grid panel. */
 :root{--amber:#ffb000;--dim:#3a2a00;--bg:#0b0a07;--red:#ff4a2a}
-body.dz{margin:0;color:var(--amber);background:var(--bg);font-family:"DotZero VF","DotZero Static",monospace;
+body.dz{margin:0;color:var(--amber);background:var(--bg);font-family:"Zerodot VF","Zerodot Static",monospace;
  background-image:radial-gradient(circle,#1d1a10 1.6px,transparent 1.8px);background-size:11px 11px}
 .hero{padding:5rem 2rem 3rem;border-bottom:1px solid var(--dim)}
 .brand{font-size:clamp(3rem,11vw,9rem);font-weight:700;letter-spacing:.05em;text-shadow:0 0 12px rgba(255,176,0,.7),0 0 40px rgba(255,120,0,.35)}

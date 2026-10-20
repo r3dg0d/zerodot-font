@@ -1,17 +1,17 @@
 # Maintainer: Vincent Patrick Chambers <192937334+r3dg0d@users.noreply.github.com>
 # Installs the prebuilt release archive. Fill sha256sums from the release's .sha256 file once published.
-pkgname=ttf-dotzero
+pkgname=ttf-zerodot
 pkgver=1.000
 pkgrel=1
-pkgdesc="DOT//ZERO: an original 5×7 dot-matrix display family. Every glyph is made of separate round dots, in 9 weights plus slanted italics."
+pkgdesc="Zerodot: an original 5×7 dot-matrix display family. Every glyph is made of separate round dots, in 9 weights plus slanted italics."
 arch=(any)
-url="https://github.com/r3dg0d/dotzero-font"
+url="https://github.com/r3dg0d/zerodot-font"
 license=(OFL-1.1)
-source=("$url/releases/download/v$pkgver/DotZero-v$pkgver.zip")
+source=("$url/releases/download/v$pkgver/Zerodot-v$pkgver.zip")
 sha256sums=('SKIP')  # replace with the published checksum before submitting to the AUR
 
 package() {
-  cd "DotZero-v$pkgver"
+  cd "Zerodot-v$pkgver"
   install -Dm644 -t "$pkgdir/usr/share/fonts/TTF" ttf/*.ttf variable/*.ttf
   install -Dm644 -t "$pkgdir/usr/share/fonts/OTF" otf/*.otf
   install -Dm644 OFL.txt "$pkgdir/usr/share/licenses/$pkgname/OFL.txt"

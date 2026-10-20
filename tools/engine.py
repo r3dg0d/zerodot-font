@@ -1,4 +1,4 @@
-"""DotZero procedural engine: 5x7 dot matrices -> independent round dots.
+"""Zerodot procedural engine: 5x7 dot matrices -> independent round dots.
 
 Construction model:
   * a fixed pitch of 110 units in both directions (monospaced 6-dot cell);
@@ -33,10 +33,10 @@ DOT = {100: (28, .5523), 200: (42, .5523), 300: (56, .5523), 400: (72, .5523), 5
        600: (90, .64), 700: (97, .68), 800: (102, .72), 900: (106, .76)}
 
 FAMILY = {
-    "name": "DotZero", "ps": "DotZero", "version": (1, 0), "vendor": "R3DG",
-    "copyright": "Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/dotzero-font), with Reserved Font Name \"DotZero\".",
-    "designer": "Vincent Patrick Chambers", "url": "https://github.com/r3dg0d/dotzero-font",
-    "description": "DOT//ZERO: an original dot-matrix display family. Every glyph is a 5x7 matrix of round dots.",
+    "name": "Zerodot", "ps": "Zerodot", "version": (1, 0), "vendor": "R3DG",
+    "copyright": "Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/zerodot-font), with Reserved Font Name \"Zerodot\".",
+    "designer": "Vincent Patrick Chambers", "url": "https://github.com/r3dg0d/zerodot-font",
+    "description": "Zerodot: an original dot-matrix display family. Every glyph is a 5x7 matrix of round dots.",
     "upm": 1000, "italic_angle": 10.0, "monospace": True,
     "metrics": {"ascender": 770, "descender": -220, "cap": 770, "x": 550,
                 "line_ascent": 1045, "line_descent": 275, "win_ascent": 1100, "win_descent": 330,

@@ -1,4 +1,4 @@
-# DotZero visual regression
+# Zerodot visual regression
 
 Each sheet is rendered from the compiled TTF with HarfBuzz + FreeType (unhinted, 32 px) and compared
 pixel-by-pixel with `tests/reference/`. Refresh references deliberately with `python3 tools/qa.py regress --update`.

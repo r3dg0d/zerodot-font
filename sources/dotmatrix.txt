@@ -1,4 +1,4 @@
-# DotZero dot matrices. Format: "name codepoint top [directive]" then rows (top row first).
+# Zerodot dot matrices. Format: "name codepoint top [directive]" then rows (top row first).
 # Matrix: 5 columns; caps occupy rows 0..6, x-height rows 0..4, descenders -1..-2.
 # Directives: "blank", "=mirror G", "=rot G", "=vflip G", "=copy G". "#" = lit dot.
 A 0041 6

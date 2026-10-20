@@ -1,6 +1,6 @@
-FONTLOG for DotZero
+FONTLOG for Zerodot
 ================
-DOT//ZERO: an original 5×7 dot-matrix display family. Every glyph is made of separate round dots, in 9 weights plus slanted italics.
+Zerodot: an original 5×7 dot-matrix display family. Every glyph is made of separate round dots, in 9 weights plus slanted italics.
 
 Basic Font Information
 ----------------------
@@ -9,7 +9,7 @@ Engine: 5×7 matrix → one closed 4-curve dot contour per lit cell (never merge
 
 ChangeLog
 ---------
-2026-10-19 (Vincent Patrick Chambers) DotZero 1.000
+2026-10-19 (Vincent Patrick Chambers) Zerodot 1.000
 - Initial version (not yet published).
 
 Acknowledgements

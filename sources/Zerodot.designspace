@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ufo/Zerodot-Thin.ufo" familyname="Zerodot" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-ExtraLight.ufo" familyname="Zerodot" stylename="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Light.ufo" familyname="Zerodot" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Regular.ufo" familyname="Zerodot" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Medium.ufo" familyname="Zerodot" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-SemiBold.ufo" familyname="Zerodot" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Bold.ufo" familyname="Zerodot" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-ExtraBold.ufo" familyname="Zerodot" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Black.ufo" familyname="Zerodot" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Zerodot" stylename="Thin" postscriptfontname="Zerodot-Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="ExtraLight" postscriptfontname="Zerodot-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Light" postscriptfontname="Zerodot-Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Regular" postscriptfontname="Zerodot-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Medium" postscriptfontname="Zerodot-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="SemiBold" postscriptfontname="Zerodot-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Bold" postscriptfontname="Zerodot-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="ExtraBold" postscriptfontname="Zerodot-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Black" postscriptfontname="Zerodot-Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

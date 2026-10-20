@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ufo/Zerodot-ThinItalic.ufo" familyname="Zerodot" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-ExtraLightItalic.ufo" familyname="Zerodot" stylename="ExtraLight Italic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-LightItalic.ufo" familyname="Zerodot" stylename="Light Italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-Italic.ufo" familyname="Zerodot" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-MediumItalic.ufo" familyname="Zerodot" stylename="Medium Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-SemiBoldItalic.ufo" familyname="Zerodot" stylename="SemiBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-BoldItalic.ufo" familyname="Zerodot" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-ExtraBoldItalic.ufo" familyname="Zerodot" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="ufo/Zerodot-BlackItalic.ufo" familyname="Zerodot" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Zerodot" stylename="Thin Italic" postscriptfontname="Zerodot-ThinItalic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="ExtraLight Italic" postscriptfontname="Zerodot-ExtraLightItalic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Light Italic" postscriptfontname="Zerodot-LightItalic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Italic" postscriptfontname="Zerodot-Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Medium Italic" postscriptfontname="Zerodot-MediumItalic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="SemiBold Italic" postscriptfontname="Zerodot-SemiBoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Bold Italic" postscriptfontname="Zerodot-BoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="ExtraBold Italic" postscriptfontname="Zerodot-ExtraBoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="Zerodot" stylename="Black Italic" postscriptfontname="Zerodot-BlackItalic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

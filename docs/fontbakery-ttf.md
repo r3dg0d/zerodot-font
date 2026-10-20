@@ -12,42 +12,8 @@ fontbakery version: 1.1.0
 
 
 
-<details><summary>[5] DotZero-MediumItalic.ttf</summary>
+<details><summary>[4] Zerodot-MediumItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking post.italicAngle value. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-italic-angle">opentype/italic_angle</a></summary>
     <div>
@@ -250,42 +216,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-BlackItalic.ttf</summary>
+<details><summary>[3] Zerodot-BlackItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -456,42 +388,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Black.ttf</summary>
+<details><summary>[3] Zerodot-Black.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -662,42 +560,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-BoldItalic.ttf</summary>
+<details><summary>[3] Zerodot-BoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -868,42 +732,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Bold.ttf</summary>
+<details><summary>[3] Zerodot-Bold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -1074,42 +904,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-ExtraBoldItalic.ttf</summary>
+<details><summary>[3] Zerodot-ExtraBoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -1280,42 +1076,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-ExtraBold.ttf</summary>
+<details><summary>[3] Zerodot-ExtraBold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -1486,42 +1248,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-ExtraLightItalic.ttf</summary>
+<details><summary>[3] Zerodot-ExtraLightItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -1692,42 +1420,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-ExtraLight.ttf</summary>
+<details><summary>[3] Zerodot-ExtraLight.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -1898,42 +1592,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Italic.ttf</summary>
+<details><summary>[3] Zerodot-Italic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -2104,42 +1764,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-LightItalic.ttf</summary>
+<details><summary>[3] Zerodot-LightItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -2310,42 +1936,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Light.ttf</summary>
+<details><summary>[3] Zerodot-Light.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -2516,42 +2108,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Medium.ttf</summary>
+<details><summary>[3] Zerodot-Medium.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -2722,42 +2280,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Regular.ttf</summary>
+<details><summary>[3] Zerodot-Regular.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -2928,42 +2452,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-SemiBoldItalic.ttf</summary>
+<details><summary>[3] Zerodot-SemiBoldItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -3134,42 +2624,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-SemiBold.ttf</summary>
+<details><summary>[3] Zerodot-SemiBold.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -3340,42 +2796,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-ThinItalic.ttf</summary>
+<details><summary>[3] Zerodot-ThinItalic.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -3546,42 +2968,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[4] DotZero-Thin.ttf</summary>
+<details><summary>[3] Zerodot-Thin.ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -3759,8 +3147,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 18 | 0 | 0 | 55 | 677 | 54 | 1278 | 0 | 
-| 1% | 0% | 0% | 3% | 33% | 3% | 61% | 0% | 
+| 0 | 0 | 0 | 55 | 677 | 54 | 1296 | 0 | 
+| 0% | 0% | 0% | 3% | 33% | 3% | 62% | 0% | 
 
 
 

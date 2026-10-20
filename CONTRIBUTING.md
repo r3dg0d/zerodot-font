@@ -1,6 +1,6 @@
-# Contributing to DotZero
+# Contributing to Zerodot
 
-Thanks for helping! DotZero is generated **procedurally**. Never edit the UFOs or binaries by hand. Edit the source of truth and rebuild:
+Thanks for helping! Zerodot is generated **procedurally**. Never edit the UFOs or binaries by hand. Edit the source of truth and rebuild:
 
 * Glyph designs: `sources/dotmatrix.txt` (5×7 matrix → one closed 4-curve dot contour per lit cell (never merged)).
 * Construction rules, weights, metrics: `tools/engine.py`.

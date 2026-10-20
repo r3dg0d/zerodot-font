@@ -1,6 +1,6 @@
-# DotZero design notes
+# Zerodot design notes
 
-DotZero is a **fixed-pitch dot-matrix**: a 5×7 matrix (x-height 5, 2-row descenders, accents above) on a 110-unit pitch, in a 6-dot (660-unit) monospaced cell.
+Zerodot is a **fixed-pitch dot-matrix**: a 5×7 matrix (x-height 5, 2-row descenders, accents above) on a 110-unit pitch, in a 6-dot (660-unit) monospaced cell.
 
 * Each lit cell is **one closed dot**. Dots are never unioned, so no weight can close a counter: a one-dot gap is always ≥ 4 units of paper, even at Black.
 * **Weight changes the dot**: 28-unit pin-pricks at Thin, 72 at Regular, 106 at Black. From Medium up the dot also becomes slightly squarer (superellipse handle 0.5523 → 0.76), like a high-brightness LED segment. Ink grows without the dots touching.

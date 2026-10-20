@@ -1,5 +1,5 @@
-Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/dotzero-font),
-with Reserved Font Name "DotZero".
+Copyright 2026 Vincent Patrick Chambers (https://github.com/r3dg0d/zerodot-font),
+with Reserved Font Name "Zerodot".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

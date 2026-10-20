@@ -1,5 +1,5 @@
 name: Glyph / coverage request
-description: Ask for a character or script to be added to DotZero
+description: Ask for a character or script to be added to Zerodot
 labels: [coverage]
 body:
   - type: input

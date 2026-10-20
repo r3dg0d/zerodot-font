@@ -17,7 +17,7 @@ jobs:
         run: nix-shell --run 'make fonts test && python3 tools/webfonts.py && python3 tools/qa.py all && make site'
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9  # v7.0.2
         with:
-          name: dotzero-fonts
+          name: zerodot-fonts
           path: |
             fonts/
             docs/visual-regression.md

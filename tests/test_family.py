@@ -1,4 +1,4 @@
-"""DotZero-specific tests: glyphs are made of separate dots on a fixed pitch."""
+"""Zerodot-specific tests: glyphs are made of separate dots on a fixed pitch."""
 import os
 import sys
 
@@ -11,7 +11,7 @@ import engine  # noqa: E402
 
 def test_every_letter_is_a_dot_matrix():
     order, M = engine.load_maps()
-    u = ufoLib2.Font.open(os.path.join(ROOT, "sources", "ufo", "DotZero-Regular.ufo"))
+    u = ufoLib2.Font.open(os.path.join(ROOT, "sources", "ufo", "Zerodot-Regular.ufo"))
     for name in order:
         rows = M[name]["rows"]
         lit = sum(r.count("#") for r in rows) if not M[name].get("blank") else 0
