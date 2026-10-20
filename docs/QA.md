@@ -5,7 +5,7 @@
 * FontBakery 1.1.0, universal profile. Columns: ERROR | FATAL | FAIL | WARN | SKIP | INFO | PASS
   * ttf: | 18 | 0 | 0 | 55 | 677 | 54 | 1278 | 0 | 
   * otf: | 36 | 0 | 0 | 18 | 821 | 54 | 1153 | 0 | 
-  * variable: | 4 | 0 | 6 | 8 | 43 | 6 | 175 | 0 | 
+  * variable: | 2 | 0 | 0 | 8 | 43 | 6 | 183 | 0 | 
 
 ## Known FontBakery results
 * ERROR `fontdata_namecheck`: FontBakery itself crashes (`KeyError: 'data'`) on the remote namecheck.fontdata.com response. This is a tool/network issue, not a font issue.
