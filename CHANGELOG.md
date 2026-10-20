@@ -2,7 +2,7 @@
 
 All notable changes are documented here. The format follows Keep a Changelog. Font versions use `major.minor` (`head.fontRevision` = 1.000).
 
-## [1.000] — unreleased (prepared 2026-10-19)
+## [1.000] — 2026-10-20
 ### Changed
 - Family renamed before first publication: DotZero → Zerodot (DOT//ZERO display branding dropped), to avoid name conflicts with an existing product/font.
 

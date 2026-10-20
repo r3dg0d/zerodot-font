@@ -1,5 +1,5 @@
 # Maintainer: Vincent Patrick Chambers <192937334+r3dg0d@users.noreply.github.com>
-# Installs the prebuilt release archive. Fill sha256sums from the release's .sha256 file once published.
+# Installs the prebuilt v1.000 release archive.
 pkgname=ttf-zerodot
 pkgver=1.000
 pkgrel=1
@@ -8,7 +8,7 @@ arch=(any)
 url="https://github.com/r3dg0d/zerodot-font"
 license=(OFL-1.1)
 source=("$url/releases/download/v$pkgver/Zerodot-v$pkgver.zip")
-sha256sums=('SKIP')  # replace with the published checksum before submitting to the AUR
+sha256sums=('53793f646f455ca16ea9f757ec155f57a4da52e50d69473052d730a6f7d67a9f')
 
 package() {
   cd "Zerodot-v$pkgver"

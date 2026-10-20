@@ -4,7 +4,7 @@ Zerodot: an original 5×7 dot-matrix display family. Every glyph is made of sepa
 
 ![All styles](docs/specimens/styles.png)
 
-> **Status:** 1.000, prepared locally. It is not yet published to GitHub, and it has no release or Pages site yet.
+> **Status:** 1.000 released — see Releases. Site: https://r3dg0d.github.io/zerodot-font/
 
 ## Styles and formats
 9 weights × 2 slopes = **18 static styles**, each as **TTF** (TrueType outlines), **OTF** (CFF outlines), and **WOFF2**, for 54 files. There are also **2 variable fonts** (`wght` 100–900: `Zerodot[wght]` and `Zerodot-Italic[wght]`, TTF + WOFF2).
